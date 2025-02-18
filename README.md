@@ -1,2 +1,2 @@
 # classdemo
-Test
+Second repo for class demonstration
